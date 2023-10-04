@@ -26,3 +26,12 @@ Features
     Communication Constraints:
         Nodes can either send or receive a message in a timestep, not both.
         Pending messages are queued for the next timestep.
+
+
+
+
+![image](https://github.com/rakibhasan-0/Rumor_Algorithm/assets/15912059/936a9e83-5d45-490c-9d30-0b9658178778)
+![image](https://github.com/rakibhasan-0/Rumor_Algorithm/assets/15912059/6f9f9073-3d05-45a5-88f1-881b91fa08d3)
+
+
+
